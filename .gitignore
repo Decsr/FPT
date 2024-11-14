@@ -1,0 +1,7 @@
+# Ignore C# build file 
+# as this only make repository heavier without any benefit
+
+*/node_modules
+*/bin
+/Source code/backend/API/appsettings.json
+.vs
